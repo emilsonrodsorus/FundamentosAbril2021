@@ -1,0 +1,13 @@
+C:\Users\emils\source\repos\POOProjects\FormsUI\bin\Debug\FormsUI.exe.config
+C:\Users\emils\source\repos\POOProjects\FormsUI\bin\Debug\FormsUI.exe
+C:\Users\emils\source\repos\POOProjects\FormsUI\bin\Debug\FormsUI.pdb
+C:\Users\emils\source\repos\POOProjects\FormsUI\obj\Debug\FormsUI.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\POOProjects\FormsUI\obj\Debug\FormsUI.Properties.Resources.resources
+C:\Users\emils\source\repos\POOProjects\FormsUI\obj\Debug\FormsUI.csproj.GenerateResource.cache
+C:\Users\emils\source\repos\POOProjects\FormsUI\obj\Debug\FormsUI.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\POOProjects\FormsUI\obj\Debug\FormsUI.exe
+C:\Users\emils\source\repos\POOProjects\FormsUI\obj\Debug\FormsUI.pdb
+C:\Users\emils\source\repos\POOProjects\FormsUI\bin\Debug\LibreriaClases.dll
+C:\Users\emils\source\repos\POOProjects\FormsUI\bin\Debug\LibreriaClases.pdb
+C:\Users\emils\source\repos\POOProjects\FormsUI\obj\Debug\FormsUI.Form1.resources
+C:\Users\emils\source\repos\POOProjects\FormsUI\obj\Debug\FormsUI.csproj.CopyComplete

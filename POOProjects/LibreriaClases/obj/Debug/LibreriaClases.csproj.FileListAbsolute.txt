@@ -1,0 +1,5 @@
+C:\Users\emils\source\repos\POOProjects\LibreriaClases\bin\Debug\LibreriaClases.dll
+C:\Users\emils\source\repos\POOProjects\LibreriaClases\bin\Debug\LibreriaClases.pdb
+C:\Users\emils\source\repos\POOProjects\LibreriaClases\obj\Debug\LibreriaClases.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\POOProjects\LibreriaClases\obj\Debug\LibreriaClases.dll
+C:\Users\emils\source\repos\POOProjects\LibreriaClases\obj\Debug\LibreriaClases.pdb

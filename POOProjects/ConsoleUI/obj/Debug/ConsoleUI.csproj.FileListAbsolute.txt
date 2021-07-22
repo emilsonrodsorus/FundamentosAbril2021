@@ -1,0 +1,10 @@
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\bin\Debug\LibreriaClases.dll
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\bin\Debug\LibreriaClases.pdb
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\emils\source\repos\POOProjects\ConsoleUI\obj\Debug\ConsoleUI.pdb
