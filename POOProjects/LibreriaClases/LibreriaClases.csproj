@@ -42,12 +42,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\EmpleadoController.cs" />
+    <Compile Include="Controllers\FiguraRectangularController.cs" />
     <Compile Include="Controllers\LineaController.cs" />
     <Compile Include="Models\Cuadrado.cs" />
     <Compile Include="Models\Empleado.cs" />
     <Compile Include="Models\EmpleadoConsultor.cs" />
     <Compile Include="Models\EmpleadoPlanta.cs" />
     <Compile Include="Models\FiguraRectangular.cs" />
+    <Compile Include="Models\NumeroFraccion.cs" />
     <Compile Include="Models\Punto.cs" />
     <Compile Include="Models\Rectangulo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

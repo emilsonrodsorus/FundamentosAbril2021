@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibreriaClases.Models
 {
-    public class Rectangulo : FiguraRectangular
+    class Rectangulo : FiguraRectangular
     {
         public Rectangulo(int alto, int largo) : base(alto, largo)
         { }

@@ -39,7 +39,6 @@ namespace LibreriaClases.Models
         // se pueda presentar
         public override string ToString()
         {
-            Object
             return string.Format("Empleado con codigo {0}, nombre completo {1}, y CI {2}",
                 CodigoEmpleado, ApellidoEmpleado + string.Empty + NombreEmpleado, CI);
         }

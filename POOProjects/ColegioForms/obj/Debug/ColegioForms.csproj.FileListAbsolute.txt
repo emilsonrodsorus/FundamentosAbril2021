@@ -1,0 +1,13 @@
+C:\Users\emils\source\repos\POOProjects\ColegioForms\bin\Debug\ColegioForms.exe.config
+C:\Users\emils\source\repos\POOProjects\ColegioForms\bin\Debug\ColegioForms.exe
+C:\Users\emils\source\repos\POOProjects\ColegioForms\bin\Debug\ColegioForms.pdb
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.Form1.resources
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.Properties.Resources.resources
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.csproj.GenerateResource.cache
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.exe
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.pdb
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.EstudianteForm.resources
+C:\Users\emils\source\repos\POOProjects\ColegioForms\bin\Debug\ColegioLibrerias.dll
+C:\Users\emils\source\repos\POOProjects\ColegioForms\bin\Debug\ColegioLibrerias.pdb
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.csproj.CopyComplete

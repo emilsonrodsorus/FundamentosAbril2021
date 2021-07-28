@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibreriaClases.Models
 {
-    public class Cuadrado : FiguraRectangular
+    class Cuadrado : FiguraRectangular
     {
         public Cuadrado(int lado) : base(lado, lado) 
         { }

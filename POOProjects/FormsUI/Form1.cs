@@ -1,4 +1,5 @@
-﻿using LibreriaClases.Models;
+﻿using LibreriaClases.Controllers;
+using LibreriaClases.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,9 +14,11 @@ namespace FormsUI
 {
     public partial class Form1 : Form
     {
+        FiguraRectangularController controller;
         public Form1()
         {
             InitializeComponent();
+            controller = new FiguraRectangularController();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -33,8 +36,8 @@ namespace FormsUI
             {
                 int alto = Convert.ToInt32(textBox1.Text);
                 int lado = Convert.ToInt32(textBox2.Text);
-                Rectangulo rectangulo1 = new Rectangulo(alto, lado);
-                textBox3.Text = rectangulo1.ToString();
+                // Rectangulo rectangulo1 = new Rectangulo(alto, lado);
+                textBox3.Text = controller.CalcularRectangulo(lado, alto);
                 this.label4.Visible = false;
                 this.label5.Visible = false;
             }
@@ -63,8 +66,8 @@ namespace FormsUI
         private void button2_Click(object sender, EventArgs e)
         {
             int alto = Convert.ToInt32(textBox1.Text);
-            Cuadrado cuadrado1 = new Cuadrado(alto);
-            textBox3.Text = cuadrado1.ToString();
+            // Cuadrado cuadrado1 = new Cuadrado(alto);
+            textBox3.Text = controller.CalcularCuadrado(alto);
         }
     }
 }

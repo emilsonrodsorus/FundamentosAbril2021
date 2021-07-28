@@ -1,4 +1,5 @@
 ﻿using LibreriaClases.Controllers;
+using LibreriaClases.Models;
 // using LibreriaClases.Models;
 using System;
 using System.Collections.Generic;
@@ -14,10 +15,11 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
 
-            LibreriaClases.Models.Cuadrado cuadrado1 = new LibreriaClases.Models.Cuadrado(15);
-            Rectangulo rectangulo1 = new Rectangulo(5, 10);
-            Console.WriteLine(cuadrado1);
-            Console.WriteLine(rectangulo1);
+            //LibreriaClases.Models.Cuadrado cuadrado1 = new LibreriaClases.Models.Cuadrado(15);
+            //Rectangulo rectangulo1 = new Rectangulo(5, 10);
+            //FiguraRectangularController controllerFigura = new FiguraRectangularController();
+            //Console.WriteLine(controllerFigura.CalcularCuadrado(15));
+            //Console.WriteLine(controllerFigura.CalcularRectangulo(5, 10));
             // EmpleadoController controllerEmp = new EmpleadoController();
             //lineaController = new LineaController();
             //while (true) 
@@ -35,6 +37,14 @@ namespace ConsoleUI
             //            break;
             //    }
             //}
+
+
+            NumeroFraccion fraccion1 = new NumeroFraccion(5, 2);
+            NumeroFraccion fraccion2 = new NumeroFraccion(2, 3);
+            fraccion1.Multiplicar(fraccion2);
+            Console.WriteLine(fraccion1);
+            fraccion1.Simplificar();
+            Console.WriteLine(fraccion1);
         }
 
         public static void AgregarPunto()
