@@ -11,3 +11,4 @@ C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.Estu
 C:\Users\emils\source\repos\POOProjects\ColegioForms\bin\Debug\ColegioLibrerias.dll
 C:\Users\emils\source\repos\POOProjects\ColegioForms\bin\Debug\ColegioLibrerias.pdb
 C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.csproj.CopyComplete
+C:\Users\emils\source\repos\POOProjects\ColegioForms\obj\Debug\ColegioForms.csprojAssemblyReference.cache

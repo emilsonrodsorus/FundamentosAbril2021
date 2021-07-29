@@ -1,0 +1,9 @@
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\bin\Debug\ColegioConsole.exe.config
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\bin\Debug\ColegioConsole.exe
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\bin\Debug\ColegioConsole.pdb
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\obj\Debug\ColegioConsole.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\obj\Debug\ColegioConsole.exe
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\obj\Debug\ColegioConsole.pdb
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\bin\Debug\ColegioLibrerias.dll
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\bin\Debug\ColegioLibrerias.pdb
+C:\Users\emils\source\repos\POOProjects\ColegioConsole\obj\Debug\ColegioConsole.csproj.CopyComplete

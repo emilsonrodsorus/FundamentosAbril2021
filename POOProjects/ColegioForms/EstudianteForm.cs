@@ -14,11 +14,14 @@ namespace ColegioForms
     public partial class EstudianteForm : Form
     {
         EstudiantesController estudianteController;
+        // este controller se crea ahora en el form1
 
-        public EstudianteForm()
+        public EstudianteForm(EstudiantesController controller)
         {
             InitializeComponent();
-            estudianteController = new EstudiantesController();
+            // estudianteController = new EstudiantesController();
+            estudianteController = controller;
+            ActualizarLista();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -34,10 +37,10 @@ namespace ColegioForms
 
         private void ActualizarLista() 
         {
-            listView1.Items.Clear();
+            listBox1.Items.Clear();
             foreach (var estudiante in estudianteController.ListaEstudiantes)
             {
-                listView1.Items.Add(estudiante.ToString());
+                listBox1.Items.Add(estudiante.ToString());
             }
         }
     }

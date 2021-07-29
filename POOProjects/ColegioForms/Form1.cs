@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ColegioLibrerias.Controllers;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,15 +14,17 @@ namespace ColegioForms
     public partial class Form1 : Form
     {
         EstudianteForm estudianteForm;
+        EstudiantesController estudianteController;
         ProfesorForm profesorForm;
         public Form1()
         {
             InitializeComponent();
+            estudianteController = new EstudiantesController();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            estudianteForm = new EstudianteForm();
+            estudianteForm = new EstudianteForm(estudianteController);
             estudianteForm.Show();
         }
 
