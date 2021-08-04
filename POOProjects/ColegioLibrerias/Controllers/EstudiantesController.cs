@@ -1,4 +1,5 @@
 ﻿using ColegioLibrerias.Models;
+using ColegioLibrerias.Superclases;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +23,7 @@ namespace ColegioLibrerias.Controllers
 
         public void AgregarEstudiante(string nombre, string apellido, string ci, string codigoEst, int curso)
         {
+            Persona persona = new Persona(nombre, apellido, ci);
             Estudiante estudiante = new Estudiante(nombre, apellido, ci, codigoEst, curso);
 
             listaEstudiantes.Add(estudiante);
