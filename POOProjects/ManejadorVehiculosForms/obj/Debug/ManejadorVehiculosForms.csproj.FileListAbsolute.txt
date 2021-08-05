@@ -1,0 +1,15 @@
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\bin\Debug\ManejadorVehiculosForms.exe.config
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\bin\Debug\ManejadorVehiculosForms.exe
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\bin\Debug\ManejadorVehiculosForms.pdb
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\bin\Debug\VehiculosLibrary.dll
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\bin\Debug\VehiculosLibrary.pdb
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.AutosForm.resources
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.Form1.resources
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.Properties.Resources.resources
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.csproj.GenerateResource.cache
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.csproj.CopyComplete
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.exe
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.pdb
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.AvionesForm.resources
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.ResumenVehiculos.resources
