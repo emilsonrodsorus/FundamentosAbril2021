@@ -1,6 +1,5 @@
 C:\Users\emils\source\repos\POOProjects\VehiculosLibrary\bin\Debug\VehiculosLibrary.dll
 C:\Users\emils\source\repos\POOProjects\VehiculosLibrary\bin\Debug\VehiculosLibrary.pdb
-C:\Users\emils\source\repos\POOProjects\VehiculosLibrary\obj\Debug\VehiculosLibrary.csprojAssemblyReference.cache
 C:\Users\emils\source\repos\POOProjects\VehiculosLibrary\obj\Debug\VehiculosLibrary.csproj.CoreCompileInputs.cache
 C:\Users\emils\source\repos\POOProjects\VehiculosLibrary\obj\Debug\VehiculosLibrary.dll
 C:\Users\emils\source\repos\POOProjects\VehiculosLibrary\obj\Debug\VehiculosLibrary.pdb

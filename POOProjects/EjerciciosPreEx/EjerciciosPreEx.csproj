@@ -4,16 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1618A5E3-BC86-4462-ABE4-F11053AD8AAD}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VehiculosLibrary</RootNamespace>
-    <AssemblyName>VehiculosLibrary</AssemblyName>
+    <ProjectGuid>{4212EFA3-6023-423C-B1C7-FB1CEF849B36}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>EjerciciosPreEx</RootNamespace>
+    <AssemblyName>EjerciciosPreEx</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,19 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClasesAbstractas\Automovil.cs" />
-    <Compile Include="ClasesAbstractas\Vehiculo.cs" />
-    <Compile Include="Controllers\VehiculosController.cs" />
-    <Compile Include="Implements\FiltroPorNumeroChasis.cs" />
-    <Compile Include="Implements\FiltroPorNumeroMotor.cs" />
-    <Compile Include="Implements\FiltroPorTipo.cs" />
-    <Compile Include="Interfaces\IFilter.cs" />
-    <Compile Include="Models\Aeronave.cs" />
-    <Compile Include="Models\Auto.cs" />
-    <Compile Include="Models\Barco.cs" />
-    <Compile Include="Models\Moto.cs" />
+    <Compile Include="Clases\CI.cs" />
+    <Compile Include="Clases\Contador.cs" />
+    <Compile Include="Clases\Cuenta.cs" />
+    <Compile Include="Clases\Fecha.cs" />
+    <Compile Include="Clases\Libro.cs" />
+    <Compile Include="Clases\Persona.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

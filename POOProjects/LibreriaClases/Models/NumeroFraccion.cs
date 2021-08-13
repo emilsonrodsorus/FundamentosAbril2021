@@ -10,7 +10,7 @@ namespace LibreriaClases.Models
     {
         public NumeroFraccion(int numerador, int denominador) 
         {
-            Numerador = numerador;
+            this.Numerador = numerador;
             Denominador = denominador;
         }
 

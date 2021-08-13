@@ -13,3 +13,4 @@ C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\Maneja
 C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.pdb
 C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.AvionesForm.resources
 C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.ResumenVehiculos.resources
+C:\Users\emils\source\repos\POOProjects\ManejadorVehiculosForms\obj\Debug\ManejadorVehiculosForms.csprojAssemblyReference.cache

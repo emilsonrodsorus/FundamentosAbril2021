@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using VehiculosLibrary.ClasesAbstractas;
+using VehiculosLibrary.Implements;
+using VehiculosLibrary.Interfaces;
 using VehiculosLibrary.Models;
 
 namespace VehiculosLibrary.Controllers
@@ -11,15 +13,22 @@ namespace VehiculosLibrary.Controllers
     public class VehiculosController
     {
         List<Vehiculo> listaVehiculos;
+        List<IFilter> listaDeFiltros;
 
         public VehiculosController()
         {
             listaVehiculos = new List<Vehiculo>();
+            CargarFiltros();
         }
 
         public List<Vehiculo> ListaVehiculos 
         {
             get { return listaVehiculos; }
+        }
+
+        public List<IFilter> ListaFiltros
+        {
+            get { return listaDeFiltros; }
         }
 
         public void AgregarAeronave(string numeroChasis, string numeroMotor)
@@ -49,6 +58,23 @@ namespace VehiculosLibrary.Controllers
         {
             Moto nuevoMoto = new Moto(numeroChasis, numeroMotor);
             ListaVehiculos.Add(nuevoMoto);
+        }
+
+        public List<Vehiculo> FiltrarLista(IFilter filtro, string parametro)
+        {
+            // es una funcion lambda que tiene que ver con la programacion
+            // funcional, las funciones lambda declaran sus parametros antes
+            // de la ejecucion o antes del simbolo => despues de ese simbolo
+            // se declara la funcionalidad
+            return listaVehiculos.Where(vh => filtro.FiltrarPor(vh, parametro)).ToList();
+        }
+
+        private void CargarFiltros()
+        {
+            listaDeFiltros = new List<IFilter>();
+            listaDeFiltros.Add(new FiltroPorTipo());
+            listaDeFiltros.Add(new FiltroPorNumeroChasis());
+            listaDeFiltros.Add(new FiltroPorNumeroMotor());
         }
     }
 }

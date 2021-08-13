@@ -1,0 +1,7 @@
+C:\Users\emils\source\repos\POOProjects\EjerciciosPreEx\bin\Debug\EjerciciosPreEx.exe.config
+C:\Users\emils\source\repos\POOProjects\EjerciciosPreEx\bin\Debug\EjerciciosPreEx.exe
+C:\Users\emils\source\repos\POOProjects\EjerciciosPreEx\bin\Debug\EjerciciosPreEx.pdb
+C:\Users\emils\source\repos\POOProjects\EjerciciosPreEx\obj\Debug\EjerciciosPreEx.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\POOProjects\EjerciciosPreEx\obj\Debug\EjerciciosPreEx.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\POOProjects\EjerciciosPreEx\obj\Debug\EjerciciosPreEx.exe
+C:\Users\emils\source\repos\POOProjects\EjerciciosPreEx\obj\Debug\EjerciciosPreEx.pdb

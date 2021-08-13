@@ -17,8 +17,30 @@ namespace ColegioLibrerias.Models
             listaEstudiantes = new List<Estudiante>();
         }
 
+        public List<Estudiante> ListaEstudiantes {
+            get 
+            {
+                return listaEstudiantes;
+            }
+
+            set 
+            {
+                listaEstudiantes = value;
+            }
+        }
+
         public string NombreMateria { get; set; }
         public string CodigoMateria { get; set; }
         public Profesor ProfesorMateria { get; set; }
+
+        public List<Estudiante> getListaEstudiantes()
+        {
+            return listaEstudiantes;
+        }
+
+        public void setListaEstudiantes(List<Estudiante> nuevaLista)
+        {
+            listaEstudiantes = nuevaLista;
+        }
     }
 }
